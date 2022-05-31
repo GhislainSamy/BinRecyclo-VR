@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - pvert
+  - pjaune
+  - pbleu
+  - Poubelle_Vert
+  - Poubelle_Bleu
+  - Poubelle_Jaune
   layers:
   - Default
   - TransparentFX
