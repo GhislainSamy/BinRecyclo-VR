@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class conveyor : MonoBehaviour
 {
-    float speed = 0.02F;
+    float speed = 0.01F;
     // Start is called before the first frame update
     void Start()
     {

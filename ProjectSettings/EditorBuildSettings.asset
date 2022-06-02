@@ -13,5 +13,8 @@ EditorBuildSettings:
     guid: d055ad8043e3ac54a8f8e6987fcc98b7
   - enabled: 1
     path: Assets/MesAssets/Scene/Niveau_2.unity
-    guid: 38d8925eeedace84cb6f259039c2c2b0
-  m_configObjects: {}
+    guid: 486c0839747a2a5438961e39ecc2c2f9
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 4a1d96fa77320a545a207ce64b5b5c88, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: aab8418a0f9c9104e89c0f5766773023, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 041c01a980ae1c247a0121ef8dcd43cd, type: 2}
